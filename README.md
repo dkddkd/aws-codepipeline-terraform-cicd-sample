@@ -1,1 +1,1 @@
-# aws-codepipeline-terraform-cicd-sample - check
+# aws-codepipeline-terraform-cicd-sample
